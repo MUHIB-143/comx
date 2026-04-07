@@ -30,7 +30,7 @@ A high-performance, async-first networking module implemented entirely in Go and
 
 ### Developer Features
 - **Developer Signature**: MUHIB-143 embedded on module import
-- **Version**: 1.0.5
+- **Version**: 1.1.5
 - **SILENT_MODE**: Compile-time flag to disable init message
 - **Logging Levels**: ERROR (0), INFO (1), DEBUG (2)
 
@@ -47,7 +47,7 @@ import muhibx
 
 # Check module info
 print(muhibx.__developer__)  # MUHIB-143
-print(muhibx.__version__)    # 1.0.5
+print(muhibx.__version__)    # 1.1.5
 ```
 
 ## 📖 API Reference
