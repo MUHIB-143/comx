@@ -36,7 +36,7 @@ A high-performance, async-first networking module implemented entirely in Go and
 
 ## 🚀 Installation
 
-### Quick Start
+### install with pip
 ```bash
 pip install muhibx
 ```
