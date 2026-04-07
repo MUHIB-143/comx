@@ -319,4 +319,4 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ---
 
-Built with ❤️ by **MUHIB-143** | Go + C + Python
+Built by **MUHIB-143** 
